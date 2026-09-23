@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "22991751a2aa2ceffba5f15c",
+  "owner": "espdhy",
+  "repo": "page-944bb7950f2bf03d0d4359c4",
+  "title": "超平和Busters",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "944bb7950f2bf03d0d4359c4",
+      "a": "超平和Busters",
+      "b": "2027最新官网",
+      "entity": "超平和Busters",
+      "brand": "超平和Busters",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5751df209a241491d5cf3d1155fb552d78192ab07f6846fd2d065f5f210bb636",
+      "content": {
+        "primary_entity": "超平和Busters",
+        "keyword1": "超平和Busters",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，超平和Busters提供基础版、旗舰版与团队版三档订阅，月付15元起，年付150元起，覆盖每月100GB至1000GB流量和3至20台设备在线需求。客户端覆盖多平台订阅导入，适合个人、家庭与小型团队按需选择。",
+          "AI_HERO_SUBTITLE": "三档订阅随需切换",
+          "AI_HERO_INTRO": "超平和Busters面向多设备用户提供海外网络加速订阅，按流量、在线设备数与线路等级划分基础版、旗舰版和团队版。年付方案较月付更省，订阅后可在客户端导入使用。",
+          "AI_VISUAL_TITLE": "按设备选对订阅档",
+          "AI_HIGHLIGHT_1": "月付15元起，年付150元起",
+          "AI_HIGHLIGHT_2": "100GB至1000GB流量可选",
+          "AI_HIGHLIGHT_3": "3至20台设备同时在线",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "对比流量、设备数与线路等级，匹配日常使用规模。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按同时在线设备数就近选择。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度浏览，300GB覆盖影音与游戏，1000GB满足团队多端重度使用。",
+          "AI_FEATURE_TITLE_3": "年付更省心",
+          "AI_FEATURE_TEXT_3": "基础版年付150元、旗舰版350元、团队版850元，长期使用按年订阅更划算。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLIENTS_INTRO": "按当前设备系统选择对应客户端，依客户端文档完成订阅导入即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版月付15元、旗舰版35元、团队版85元，年付分别为150元、350元与850元，按流量和设备数拉开差距。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认套餐与设备数，再查看适配要求，最后按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务档",
+          "AI_STEP_TEXT_1": "根据同时在线设备数和每月流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与客户端版本，查看订阅导入所需的账号与订阅信息。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档指引导入订阅，完成后即可连接使用所选线路。",
+          "AI_CLOSING_TITLE": "选对订阅档",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选好套餐，再在客户端导入订阅即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "超平和Busters 套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "按每月流量和同时在线设备数判断：个人轻量用基础版，多设备且看流媒体用旗舰版，团队高带宽场景选团队版。",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "先在设备上安装对应客户端，再依照客户端文档填入订阅信息，即可获取线路列表并按需切换。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付折算后更省，例如基础版 ¥150/年，按月付为 ¥15/月，权益档位本身不变，按使用周期选择即可。",
+          "AI_FAQ_QUESTION_4": "团队版和旗舰版的线路有什么不同？",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点并支持企业定制路由，按实际场景选择。",
+          "AI_FAQ_QUESTION_5": "设备数量超出套餐限制怎么办？",
+          "AI_FAQ_ANSWER_5": "可以升级到更高档位，旗舰版支持 5 台，团队版支持 20 台同时在线，避免同一时间连接过多设备。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "linkelessjc.com",
+    "host": "linkelessjc.com"
+  },
+  "file_hashes": {
+    "index.html": "a2be3d791b729596771fdc7c913cd283ca5db02bafab99051246a2c5e00c1a49",
+    "sitemap.xml": "3e38023179f5e45cb8e4a51fc307e6bd9c5bda94c2136de51c0fddbe0c646257",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ecf518c2fabe3e83b9e88e0df1c5087386e3e71d555133f99ce71f6fb308aa85",
+    "robots.txt": "ddcfff9cac2d2498f571be07c3afea4d5311607dd3dfda938dc9f7efd897c2b3",
+    "ce7c209e96d6cec271c1e252f0872cbe.txt": "ba7ad811db6773c9b174a2ac6ee16a57d4be3ce4395e794040d49891c56a9035"
+  },
+  "revision": "ba2ac26c2c197f58be457fdaa65eb82255bc8f2502378e3fd0e421a96b682bbf"
+}
